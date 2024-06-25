@@ -104,6 +104,4 @@ Google 拥有专门设计的系统，可以自动捕获不适当的预测结果�
 
 欢迎关注我的公众号“**Doocs**”，原创技术文章第一时间推送。
 
-<center>
-    <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/md/images/1648303220922-7e14aefa-816e-44c1-8604-ade709ca1c69.png" style="width: 100px;">
-</center>
+
